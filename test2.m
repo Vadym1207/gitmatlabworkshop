@@ -5,4 +5,5 @@ div = d/u;
 d3=d^3;
 u3=sqrt(u)
 t = u+div*d;
+r= 10;
 
